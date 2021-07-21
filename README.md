@@ -1,2 +1,2 @@
 # Rstudio
-빅데이터_python
+빅데이터
